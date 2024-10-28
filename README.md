@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Spring Boot API designed to [briefly describe the purpose of your API, e.g., "manage a sweet potato packing service" or "provide endpoints for managing traffic lights"].
+This is a Spring Boot API designed to manage users in a mongodb.
 
 ## Features
 
